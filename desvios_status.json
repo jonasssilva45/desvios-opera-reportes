@@ -6,12 +6,12 @@
             "linhaOriginal": "L02A",
             "turno": "1T",
             "caixasMes": 792,
-            "caixasHu": 3888,
+            "caixasHu": 3816,
             "caixasRefugo": 0,
-            "desvioCaixas": 3096,
-            "percentualDesvio": 390.91,
+            "desvioCaixas": 3024,
+            "percentualDesvio": 381.82,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -24,7 +24,7 @@
             "desvioCaixas": 72,
             "percentualDesvio": 2.44,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -37,7 +37,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -50,7 +50,7 @@
             "desvioCaixas": 660,
             "percentualDesvio": 275.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -63,7 +63,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -76,7 +76,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -89,7 +89,7 @@
             "desvioCaixas": 2688,
             "percentualDesvio": 414.81,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -102,7 +102,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -115,20 +115,20 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
             "linha": "L07A",
             "linhaOriginal": "L07A",
             "turno": "1T",
-            "caixasMes": 480,
+            "caixasMes": 520,
             "caixasHu": 2040,
             "caixasRefugo": 0,
-            "desvioCaixas": 1560,
-            "percentualDesvio": 325.0,
+            "desvioCaixas": 1520,
+            "percentualDesvio": 292.31,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -141,7 +141,7 @@
             "desvioCaixas": 80,
             "percentualDesvio": 3.51,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -154,7 +154,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -167,7 +167,7 @@
             "desvioCaixas": 1920,
             "percentualDesvio": 7384.62,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -180,7 +180,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -193,7 +193,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -201,12 +201,12 @@
             "linhaOriginal": "L09A",
             "turno": "1T",
             "caixasMes": 550,
-            "caixasHu": 2340,
+            "caixasHu": 2390,
             "caixasRefugo": 0,
-            "desvioCaixas": 1790,
-            "percentualDesvio": 325.45,
+            "desvioCaixas": 1840,
+            "percentualDesvio": 334.55,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -219,7 +219,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -232,7 +232,7 @@
             "desvioCaixas": 100,
             "percentualDesvio": 25.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -245,7 +245,7 @@
             "desvioCaixas": 1368,
             "percentualDesvio": 380.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -258,7 +258,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -271,20 +271,20 @@
             "desvioCaixas": -36,
             "percentualDesvio": -2.17,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
             "linha": "L11A",
             "linhaOriginal": "L11A",
             "turno": "1T",
-            "caixasMes": 180,
+            "caixasMes": 240,
             "caixasHu": 1680,
             "caixasRefugo": 0,
-            "desvioCaixas": 1500,
-            "percentualDesvio": 833.33,
+            "desvioCaixas": 1440,
+            "percentualDesvio": 600.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -297,7 +297,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -310,7 +310,7 @@
             "desvioCaixas": -60,
             "percentualDesvio": -2.78,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -323,7 +323,7 @@
             "desvioCaixas": 1360,
             "percentualDesvio": 340.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -336,7 +336,7 @@
             "desvioCaixas": 40,
             "percentualDesvio": 1.37,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -349,7 +349,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -362,7 +362,7 @@
             "desvioCaixas": 6140,
             "percentualDesvio": 787.18,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -375,7 +375,7 @@
             "desvioCaixas": 2340,
             "percentualDesvio": 260.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -388,7 +388,7 @@
             "desvioCaixas": 120,
             "percentualDesvio": 4.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -401,7 +401,7 @@
             "desvioCaixas": 225,
             "percentualDesvio": 11.36,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         }
     ],
     "p7d": [
@@ -416,7 +416,7 @@
             "desvioCaixas": 936,
             "percentualDesvio": 20.8,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -429,7 +429,7 @@
             "desvioCaixas": 72,
             "percentualDesvio": 1.46,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -442,7 +442,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -455,7 +455,7 @@
             "desvioCaixas": 73,
             "percentualDesvio": 0.55,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -468,7 +468,7 @@
             "desvioCaixas": 72,
             "percentualDesvio": 0.66,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -481,7 +481,7 @@
             "desvioCaixas": 144,
             "percentualDesvio": 1.05,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -494,7 +494,7 @@
             "desvioCaixas": 1228,
             "percentualDesvio": 10.26,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -507,7 +507,7 @@
             "desvioCaixas": 678,
             "percentualDesvio": 2.98,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -520,7 +520,7 @@
             "desvioCaixas": 120,
             "percentualDesvio": 0.78,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -528,12 +528,12 @@
             "linhaOriginal": "L04A",
             "turno": "1T",
             "caixasMes": 15722,
-            "caixasHu": 17954,
+            "caixasHu": 17882,
             "caixasRefugo": 0,
-            "desvioCaixas": 2232,
-            "percentualDesvio": 14.2,
+            "desvioCaixas": 2160,
+            "percentualDesvio": 13.74,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -546,7 +546,7 @@
             "desvioCaixas": -72,
             "percentualDesvio": -0.53,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -559,20 +559,20 @@
             "desvioCaixas": 72,
             "percentualDesvio": 0.41,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
             "linha": "L07A",
             "linhaOriginal": "L07A",
             "turno": "1T",
-            "caixasMes": 8440,
+            "caixasMes": 8480,
             "caixasHu": 9920,
             "caixasRefugo": 0,
-            "desvioCaixas": 1480,
-            "percentualDesvio": 17.54,
+            "desvioCaixas": 1440,
+            "percentualDesvio": 16.98,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -585,7 +585,7 @@
             "desvioCaixas": 80,
             "percentualDesvio": 0.63,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -598,7 +598,7 @@
             "desvioCaixas": 40,
             "percentualDesvio": 0.35,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -611,7 +611,7 @@
             "desvioCaixas": 1600,
             "percentualDesvio": 13.67,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -624,7 +624,7 @@
             "desvioCaixas": 80,
             "percentualDesvio": 0.51,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -637,7 +637,7 @@
             "desvioCaixas": -40,
             "percentualDesvio": -0.28,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -645,12 +645,12 @@
             "linhaOriginal": "L09A",
             "turno": "1T",
             "caixasMes": 12891,
-            "caixasHu": 14641,
+            "caixasHu": 14691,
             "caixasRefugo": 0,
-            "desvioCaixas": 1750,
-            "percentualDesvio": 13.58,
+            "desvioCaixas": 1800,
+            "percentualDesvio": 13.96,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -663,7 +663,7 @@
             "desvioCaixas": 200,
             "percentualDesvio": 1.55,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -676,7 +676,7 @@
             "desvioCaixas": 180,
             "percentualDesvio": 1.36,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -684,12 +684,12 @@
             "linhaOriginal": "L10A",
             "turno": "1T",
             "caixasMes": 8712,
-            "caixasHu": 10116,
+            "caixasHu": 10080,
             "caixasRefugo": 0,
-            "desvioCaixas": 1404,
-            "percentualDesvio": 16.12,
+            "desvioCaixas": 1368,
+            "percentualDesvio": 15.7,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -702,7 +702,7 @@
             "desvioCaixas": 72,
             "percentualDesvio": 0.66,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -715,20 +715,20 @@
             "desvioCaixas": 72,
             "percentualDesvio": 0.64,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
             "linha": "L11A",
             "linhaOriginal": "L11A",
             "turno": "1T",
-            "caixasMes": 7255,
+            "caixasMes": 7315,
             "caixasHu": 8578,
             "caixasRefugo": 0,
-            "desvioCaixas": 1323,
-            "percentualDesvio": 18.24,
+            "desvioCaixas": 1263,
+            "percentualDesvio": 17.27,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -741,7 +741,7 @@
             "desvioCaixas": -38,
             "percentualDesvio": -0.4,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -754,7 +754,7 @@
             "desvioCaixas": 234,
             "percentualDesvio": 1.98,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -762,12 +762,12 @@
             "linhaOriginal": "L13B",
             "turno": "1T",
             "caixasMes": 7160,
-            "caixasHu": 9731,
+            "caixasHu": 9691,
             "caixasRefugo": 0,
-            "desvioCaixas": 2571,
-            "percentualDesvio": 35.91,
+            "desvioCaixas": 2531,
+            "percentualDesvio": 35.35,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -780,7 +780,7 @@
             "desvioCaixas": 600,
             "percentualDesvio": 3.68,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -793,7 +793,7 @@
             "desvioCaixas": 321,
             "percentualDesvio": 2.57,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -806,7 +806,7 @@
             "desvioCaixas": 5169,
             "percentualDesvio": 13.72,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -819,7 +819,7 @@
             "desvioCaixas": 1030,
             "percentualDesvio": 3.21,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -832,7 +832,7 @@
             "desvioCaixas": -2,
             "percentualDesvio": -100.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -845,7 +845,7 @@
             "desvioCaixas": 3797,
             "percentualDesvio": 24.59,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -858,7 +858,7 @@
             "desvioCaixas": 540,
             "percentualDesvio": 3.08,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -871,7 +871,7 @@
             "desvioCaixas": 269,
             "percentualDesvio": 1.93,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         }
     ],
     "p15d": [
@@ -886,7 +886,7 @@
             "desvioCaixas": 252,
             "percentualDesvio": 2.79,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -899,7 +899,7 @@
             "desvioCaixas": 144,
             "percentualDesvio": 1.52,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -912,7 +912,7 @@
             "desvioCaixas": -36,
             "percentualDesvio": -0.52,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -925,7 +925,7 @@
             "desvioCaixas": 73,
             "percentualDesvio": 0.36,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -938,7 +938,7 @@
             "desvioCaixas": 192,
             "percentualDesvio": 1.03,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -951,7 +951,7 @@
             "desvioCaixas": 204,
             "percentualDesvio": 0.88,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -964,7 +964,7 @@
             "desvioCaixas": 2181,
             "percentualDesvio": 5.3,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -977,7 +977,7 @@
             "desvioCaixas": 707,
             "percentualDesvio": 1.46,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -990,7 +990,7 @@
             "desvioCaixas": 120,
             "percentualDesvio": 0.26,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1003,7 +1003,7 @@
             "desvioCaixas": 216,
             "percentualDesvio": 0.74,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1016,7 +1016,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1029,20 +1029,20 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
             "linha": "L07A",
             "linhaOriginal": "L07A",
             "turno": "1T",
-            "caixasMes": 18665,
+            "caixasMes": 18705,
             "caixasHu": 19945,
             "caixasRefugo": 0,
-            "desvioCaixas": 1280,
-            "percentualDesvio": 6.86,
+            "desvioCaixas": 1240,
+            "percentualDesvio": 6.63,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1055,7 +1055,7 @@
             "desvioCaixas": 200,
             "percentualDesvio": 0.8,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1068,7 +1068,7 @@
             "desvioCaixas": 40,
             "percentualDesvio": 0.2,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1081,7 +1081,7 @@
             "desvioCaixas": 767,
             "percentualDesvio": 3.05,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1094,7 +1094,7 @@
             "desvioCaixas": -32,
             "percentualDesvio": -0.11,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1107,7 +1107,7 @@
             "desvioCaixas": 40,
             "percentualDesvio": 0.15,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1115,12 +1115,12 @@
             "linhaOriginal": "L09A",
             "turno": "1T",
             "caixasMes": 27284,
-            "caixasHu": 27834,
+            "caixasHu": 27844,
             "caixasRefugo": 0,
-            "desvioCaixas": 550,
-            "percentualDesvio": 2.02,
+            "desvioCaixas": 560,
+            "percentualDesvio": 2.05,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1133,7 +1133,7 @@
             "desvioCaixas": 256,
             "percentualDesvio": 0.96,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1146,7 +1146,7 @@
             "desvioCaixas": 220,
             "percentualDesvio": 0.85,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1159,7 +1159,7 @@
             "desvioCaixas": 1548,
             "percentualDesvio": 8.79,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1172,7 +1172,7 @@
             "desvioCaixas": 180,
             "percentualDesvio": 0.74,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1185,20 +1185,20 @@
             "desvioCaixas": -36,
             "percentualDesvio": -0.17,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
             "linha": "L11A",
             "linhaOriginal": "L11A",
             "turno": "1T",
-            "caixasMes": 12359,
-            "caixasHu": 13762,
+            "caixasMes": 12419,
+            "caixasHu": 13702,
             "caixasRefugo": 0,
-            "desvioCaixas": 1403,
-            "percentualDesvio": 11.35,
+            "desvioCaixas": 1283,
+            "percentualDesvio": 10.33,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1211,7 +1211,7 @@
             "desvioCaixas": -38,
             "percentualDesvio": -0.26,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1224,7 +1224,7 @@
             "desvioCaixas": 294,
             "percentualDesvio": 1.87,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1237,7 +1237,7 @@
             "desvioCaixas": 2691,
             "percentualDesvio": 15.12,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1250,7 +1250,7 @@
             "desvioCaixas": 1192,
             "percentualDesvio": 3.92,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1263,7 +1263,7 @@
             "desvioCaixas": 681,
             "percentualDesvio": 2.61,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1276,7 +1276,7 @@
             "desvioCaixas": 5247,
             "percentualDesvio": 6.5,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1289,7 +1289,7 @@
             "desvioCaixas": 1138,
             "percentualDesvio": 2.1,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1302,7 +1302,7 @@
             "desvioCaixas": 62,
             "percentualDesvio": 3100.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1315,7 +1315,7 @@
             "desvioCaixas": 6694,
             "percentualDesvio": 12.28,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1328,7 +1328,7 @@
             "desvioCaixas": 3256,
             "percentualDesvio": 5.94,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1341,7 +1341,7 @@
             "desvioCaixas": 2079,
             "percentualDesvio": 4.37,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:48"
+            "ultimaAtualizacao": "31/08/2026 07:43:16"
         }
     ],
     "p30d": [
@@ -1356,7 +1356,7 @@
             "desvioCaixas": -144,
             "percentualDesvio": -0.92,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1369,7 +1369,7 @@
             "desvioCaixas": 216,
             "percentualDesvio": 1.36,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1382,7 +1382,7 @@
             "desvioCaixas": 108,
             "percentualDesvio": 0.78,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1395,7 +1395,7 @@
             "desvioCaixas": 73,
             "percentualDesvio": 0.28,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1408,7 +1408,7 @@
             "desvioCaixas": 192,
             "percentualDesvio": 0.88,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1421,7 +1421,7 @@
             "desvioCaixas": 204,
             "percentualDesvio": 0.78,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1434,7 +1434,7 @@
             "desvioCaixas": 576,
             "percentualDesvio": 1.27,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1447,7 +1447,7 @@
             "desvioCaixas": 707,
             "percentualDesvio": 1.35,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1460,7 +1460,7 @@
             "desvioCaixas": 120,
             "percentualDesvio": 0.24,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1473,7 +1473,7 @@
             "desvioCaixas": 288,
             "percentualDesvio": 0.76,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1486,7 +1486,7 @@
             "desvioCaixas": 126,
             "percentualDesvio": 0.4,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1499,20 +1499,20 @@
             "desvioCaixas": -72,
             "percentualDesvio": -0.19,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
             "linha": "L07A",
             "linhaOriginal": "L07A",
             "turno": "1T",
-            "caixasMes": 23865,
+            "caixasMes": 23905,
             "caixasHu": 24145,
             "caixasRefugo": 0,
-            "desvioCaixas": 280,
-            "percentualDesvio": 1.17,
+            "desvioCaixas": 240,
+            "percentualDesvio": 1.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1525,7 +1525,7 @@
             "desvioCaixas": 520,
             "percentualDesvio": 1.74,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1538,7 +1538,7 @@
             "desvioCaixas": 880,
             "percentualDesvio": 3.36,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1551,7 +1551,7 @@
             "desvioCaixas": 83,
             "percentualDesvio": 0.31,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1564,7 +1564,7 @@
             "desvioCaixas": 12,
             "percentualDesvio": 0.04,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1577,7 +1577,7 @@
             "desvioCaixas": 76,
             "percentualDesvio": 0.26,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1585,12 +1585,12 @@
             "linhaOriginal": "L09A",
             "turno": "1T",
             "caixasMes": 34612,
-            "caixasHu": 33582,
+            "caixasHu": 33632,
             "caixasRefugo": 0,
-            "desvioCaixas": -1030,
-            "percentualDesvio": -2.98,
+            "desvioCaixas": -980,
+            "percentualDesvio": -2.83,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1603,7 +1603,7 @@
             "desvioCaixas": 411,
             "percentualDesvio": 1.28,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1616,7 +1616,7 @@
             "desvioCaixas": 260,
             "percentualDesvio": 0.82,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1629,7 +1629,7 @@
             "desvioCaixas": 180,
             "percentualDesvio": 0.72,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1642,7 +1642,7 @@
             "desvioCaixas": 576,
             "percentualDesvio": 1.76,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1655,20 +1655,20 @@
             "desvioCaixas": -180,
             "percentualDesvio": -0.59,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
             "linha": "L11A",
             "linhaOriginal": "L11A",
             "turno": "1T",
-            "caixasMes": 19046,
+            "caixasMes": 19106,
             "caixasHu": 18961,
             "caixasRefugo": 0,
-            "desvioCaixas": -85,
-            "percentualDesvio": -0.45,
+            "desvioCaixas": -145,
+            "percentualDesvio": -0.76,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1681,7 +1681,7 @@
             "desvioCaixas": 202,
             "percentualDesvio": 0.99,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1694,7 +1694,7 @@
             "desvioCaixas": 486,
             "percentualDesvio": 2.14,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1707,7 +1707,7 @@
             "desvioCaixas": 1411,
             "percentualDesvio": 5.9,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1720,7 +1720,7 @@
             "desvioCaixas": 1352,
             "percentualDesvio": 3.56,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1733,7 +1733,7 @@
             "desvioCaixas": 923,
             "percentualDesvio": 2.84,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1746,7 +1746,7 @@
             "desvioCaixas": 1052,
             "percentualDesvio": 0.94,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1759,7 +1759,7 @@
             "desvioCaixas": 1163,
             "percentualDesvio": 1.72,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1772,7 +1772,7 @@
             "desvioCaixas": 62,
             "percentualDesvio": 3100.0,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1785,7 +1785,7 @@
             "desvioCaixas": 2270,
             "percentualDesvio": 2.49,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1798,7 +1798,7 @@
             "desvioCaixas": 3198,
             "percentualDesvio": 3.87,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1811,8 +1811,8 @@
             "desvioCaixas": 2521,
             "percentualDesvio": 3.65,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "31/08/2026 07:40:49"
+            "ultimaAtualizacao": "31/08/2026 07:43:17"
         }
     ],
-    "ultimaAtualizacao": "31/08/2026 07:40:49"
+    "ultimaAtualizacao": "31/08/2026 07:43:17"
 }
