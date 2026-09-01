@@ -12,7 +12,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -26,7 +26,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -40,7 +40,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -54,7 +54,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -68,7 +68,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -82,7 +82,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -96,7 +96,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -105,12 +105,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 811,
-            "caixasHu": 120,
+            "caixasHu": 811,
             "caixasRefugo": 0,
-            "desvioCaixas": -691,
-            "percentualDesvio": -85.2,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -124,7 +124,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -138,7 +138,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -152,7 +152,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -166,7 +166,7 @@
             "desvioCaixas": -50,
             "percentualDesvio": -2.12,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -180,7 +180,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -189,12 +189,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 3168,
-            "caixasHu": 288,
+            "caixasHu": 3312,
             "caixasRefugo": 0,
-            "desvioCaixas": -2880,
-            "percentualDesvio": -90.91,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 144,
+            "percentualDesvio": 4.55,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -208,7 +208,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -222,7 +222,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -236,7 +236,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -250,7 +250,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -264,7 +264,7 @@
             "desvioCaixas": 69,
             "percentualDesvio": 8.83,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -273,12 +273,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1536,
-            "caixasHu": 420,
+            "caixasHu": 1536,
             "caixasRefugo": 0,
-            "desvioCaixas": -1116,
-            "percentualDesvio": -72.66,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -292,7 +292,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -306,7 +306,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -320,7 +320,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -334,7 +334,7 @@
             "desvioCaixas": 11,
             "percentualDesvio": 0.81,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -348,7 +348,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -362,7 +362,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -376,7 +376,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -390,7 +390,7 @@
             "desvioCaixas": -66,
             "percentualDesvio": -2.73,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -404,7 +404,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -413,12 +413,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 2120,
-            "caixasHu": 0,
+            "caixasHu": 2120,
             "caixasRefugo": 0,
-            "desvioCaixas": -2120,
-            "percentualDesvio": -100.0,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -432,7 +432,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -446,7 +446,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -460,7 +460,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -474,7 +474,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -488,7 +488,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -497,12 +497,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1620,
-            "caixasHu": 252,
+            "caixasHu": 1620,
             "caixasRefugo": 0,
-            "desvioCaixas": -1368,
-            "percentualDesvio": -84.44,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -516,7 +516,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -530,7 +530,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -544,7 +544,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -558,7 +558,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -572,7 +572,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -581,12 +581,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1773,
-            "caixasHu": 213,
+            "caixasHu": 1833,
             "caixasRefugo": 0,
-            "desvioCaixas": -1560,
-            "percentualDesvio": -87.99,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 60,
+            "percentualDesvio": 3.38,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -600,7 +600,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -614,7 +614,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -628,7 +628,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -642,7 +642,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -656,7 +656,7 @@
             "desvioCaixas": 120,
             "percentualDesvio": 9.68,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -665,12 +665,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 2440,
-            "caixasHu": 120,
+            "caixasHu": 2400,
             "caixasRefugo": 0,
-            "desvioCaixas": -2320,
-            "percentualDesvio": -95.08,
+            "desvioCaixas": -40,
+            "percentualDesvio": -1.64,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -684,7 +684,7 @@
             "desvioCaixas": 11,
             "percentualDesvio": 0.76,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -698,7 +698,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -712,7 +712,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -726,7 +726,7 @@
             "desvioCaixas": 160,
             "percentualDesvio": 2.56,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -740,7 +740,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -754,7 +754,7 @@
             "desvioCaixas": -180,
             "percentualDesvio": -5.77,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -768,7 +768,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -777,12 +777,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 4500,
-            "caixasHu": 240,
+            "caixasHu": 4560,
             "caixasRefugo": 0,
-            "desvioCaixas": -4260,
-            "percentualDesvio": -94.67,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 60,
+            "percentualDesvio": 1.33,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -796,7 +796,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -810,7 +810,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -824,7 +824,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         }
     ],
     "p7d": [
@@ -840,7 +840,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -854,7 +854,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -868,7 +868,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -882,7 +882,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -896,7 +896,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -910,7 +910,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -924,7 +924,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -933,12 +933,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 811,
-            "caixasHu": 120,
+            "caixasHu": 811,
             "caixasRefugo": 0,
-            "desvioCaixas": -691,
-            "percentualDesvio": -85.2,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -952,7 +952,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -966,7 +966,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -980,7 +980,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -994,7 +994,7 @@
             "desvioCaixas": -50,
             "percentualDesvio": -2.12,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1008,7 +1008,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1017,12 +1017,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 3168,
-            "caixasHu": 288,
+            "caixasHu": 3312,
             "caixasRefugo": 0,
-            "desvioCaixas": -2880,
-            "percentualDesvio": -90.91,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 144,
+            "percentualDesvio": 4.55,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1036,7 +1036,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1050,7 +1050,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1064,7 +1064,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1078,7 +1078,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1092,7 +1092,7 @@
             "desvioCaixas": 69,
             "percentualDesvio": 8.83,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1101,12 +1101,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1536,
-            "caixasHu": 420,
+            "caixasHu": 1536,
             "caixasRefugo": 0,
-            "desvioCaixas": -1116,
-            "percentualDesvio": -72.66,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1120,7 +1120,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1134,7 +1134,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1148,7 +1148,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1162,7 +1162,7 @@
             "desvioCaixas": 11,
             "percentualDesvio": 0.81,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1176,7 +1176,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1190,7 +1190,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1204,7 +1204,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1218,7 +1218,7 @@
             "desvioCaixas": -66,
             "percentualDesvio": -2.73,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1232,7 +1232,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1241,12 +1241,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 2120,
-            "caixasHu": 0,
+            "caixasHu": 2120,
             "caixasRefugo": 0,
-            "desvioCaixas": -2120,
-            "percentualDesvio": -100.0,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1260,7 +1260,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1274,7 +1274,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1288,7 +1288,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1302,7 +1302,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1316,7 +1316,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1325,12 +1325,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1620,
-            "caixasHu": 252,
+            "caixasHu": 1620,
             "caixasRefugo": 0,
-            "desvioCaixas": -1368,
-            "percentualDesvio": -84.44,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1344,7 +1344,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1358,7 +1358,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1372,7 +1372,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1386,7 +1386,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1400,7 +1400,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1409,12 +1409,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1773,
-            "caixasHu": 213,
+            "caixasHu": 1833,
             "caixasRefugo": 0,
-            "desvioCaixas": -1560,
-            "percentualDesvio": -87.99,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 60,
+            "percentualDesvio": 3.38,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1428,7 +1428,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1442,7 +1442,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1456,7 +1456,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1470,7 +1470,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1484,7 +1484,7 @@
             "desvioCaixas": 120,
             "percentualDesvio": 9.68,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1493,12 +1493,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 2440,
-            "caixasHu": 120,
+            "caixasHu": 2400,
             "caixasRefugo": 0,
-            "desvioCaixas": -2320,
-            "percentualDesvio": -95.08,
+            "desvioCaixas": -40,
+            "percentualDesvio": -1.64,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1512,7 +1512,7 @@
             "desvioCaixas": 11,
             "percentualDesvio": 0.76,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1526,7 +1526,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1540,7 +1540,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1554,7 +1554,7 @@
             "desvioCaixas": 160,
             "percentualDesvio": 2.56,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1568,7 +1568,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1582,7 +1582,7 @@
             "desvioCaixas": -180,
             "percentualDesvio": -5.77,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1596,7 +1596,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1605,12 +1605,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 4500,
-            "caixasHu": 240,
+            "caixasHu": 4560,
             "caixasRefugo": 0,
-            "desvioCaixas": -4260,
-            "percentualDesvio": -94.67,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 60,
+            "percentualDesvio": 1.33,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1624,7 +1624,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1638,7 +1638,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -1652,7 +1652,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         }
     ],
     "p15d": [
@@ -1668,7 +1668,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1682,7 +1682,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1696,7 +1696,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1710,7 +1710,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1724,7 +1724,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1738,7 +1738,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1752,7 +1752,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1761,12 +1761,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 811,
-            "caixasHu": 120,
+            "caixasHu": 811,
             "caixasRefugo": 0,
-            "desvioCaixas": -691,
-            "percentualDesvio": -85.2,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1780,7 +1780,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1794,7 +1794,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1808,7 +1808,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1822,7 +1822,7 @@
             "desvioCaixas": -50,
             "percentualDesvio": -2.12,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1836,7 +1836,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1845,12 +1845,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 3168,
-            "caixasHu": 288,
+            "caixasHu": 3312,
             "caixasRefugo": 0,
-            "desvioCaixas": -2880,
-            "percentualDesvio": -90.91,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 144,
+            "percentualDesvio": 4.55,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1864,7 +1864,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1878,7 +1878,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1892,7 +1892,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1906,7 +1906,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1920,7 +1920,7 @@
             "desvioCaixas": 69,
             "percentualDesvio": 8.83,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1929,12 +1929,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1536,
-            "caixasHu": 420,
+            "caixasHu": 1536,
             "caixasRefugo": 0,
-            "desvioCaixas": -1116,
-            "percentualDesvio": -72.66,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1948,7 +1948,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1962,7 +1962,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1976,7 +1976,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -1990,7 +1990,7 @@
             "desvioCaixas": 11,
             "percentualDesvio": 0.81,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2004,7 +2004,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2018,7 +2018,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2032,7 +2032,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2046,7 +2046,7 @@
             "desvioCaixas": -66,
             "percentualDesvio": -2.73,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2060,7 +2060,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2069,12 +2069,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 2120,
-            "caixasHu": 0,
+            "caixasHu": 2120,
             "caixasRefugo": 0,
-            "desvioCaixas": -2120,
-            "percentualDesvio": -100.0,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2088,7 +2088,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2102,7 +2102,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2116,7 +2116,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2130,7 +2130,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2144,7 +2144,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2153,12 +2153,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1620,
-            "caixasHu": 252,
+            "caixasHu": 1620,
             "caixasRefugo": 0,
-            "desvioCaixas": -1368,
-            "percentualDesvio": -84.44,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2172,7 +2172,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2186,7 +2186,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2200,7 +2200,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2214,7 +2214,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2228,7 +2228,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2237,12 +2237,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1773,
-            "caixasHu": 213,
+            "caixasHu": 1833,
             "caixasRefugo": 0,
-            "desvioCaixas": -1560,
-            "percentualDesvio": -87.99,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 60,
+            "percentualDesvio": 3.38,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2256,7 +2256,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2270,7 +2270,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2284,7 +2284,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2298,7 +2298,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2312,7 +2312,7 @@
             "desvioCaixas": 120,
             "percentualDesvio": 9.68,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2321,12 +2321,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 2440,
-            "caixasHu": 120,
+            "caixasHu": 2400,
             "caixasRefugo": 0,
-            "desvioCaixas": -2320,
-            "percentualDesvio": -95.08,
+            "desvioCaixas": -40,
+            "percentualDesvio": -1.64,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2340,7 +2340,7 @@
             "desvioCaixas": 11,
             "percentualDesvio": 0.76,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2354,7 +2354,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2368,7 +2368,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -2382,7 +2382,7 @@
             "desvioCaixas": 160,
             "percentualDesvio": 2.56,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -2396,7 +2396,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -2410,7 +2410,7 @@
             "desvioCaixas": -180,
             "percentualDesvio": -5.77,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -2424,7 +2424,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -2433,12 +2433,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 4500,
-            "caixasHu": 240,
+            "caixasHu": 4560,
             "caixasRefugo": 0,
-            "desvioCaixas": -4260,
-            "percentualDesvio": -94.67,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 60,
+            "percentualDesvio": 1.33,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -2452,7 +2452,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -2466,7 +2466,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -2480,7 +2480,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         }
     ],
     "p30d": [
@@ -2496,7 +2496,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2510,7 +2510,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2524,7 +2524,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2538,7 +2538,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2552,7 +2552,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2566,7 +2566,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2580,7 +2580,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2589,12 +2589,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 811,
-            "caixasHu": 120,
+            "caixasHu": 811,
             "caixasRefugo": 0,
-            "desvioCaixas": -691,
-            "percentualDesvio": -85.2,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2608,7 +2608,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2622,7 +2622,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2636,7 +2636,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2650,7 +2650,7 @@
             "desvioCaixas": -50,
             "percentualDesvio": -2.12,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2664,7 +2664,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2673,12 +2673,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 3168,
-            "caixasHu": 288,
+            "caixasHu": 3312,
             "caixasRefugo": 0,
-            "desvioCaixas": -2880,
-            "percentualDesvio": -90.91,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 144,
+            "percentualDesvio": 4.55,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2692,7 +2692,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2706,7 +2706,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2720,7 +2720,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2734,7 +2734,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2748,7 +2748,7 @@
             "desvioCaixas": 69,
             "percentualDesvio": 8.83,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2757,12 +2757,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1536,
-            "caixasHu": 420,
+            "caixasHu": 1536,
             "caixasRefugo": 0,
-            "desvioCaixas": -1116,
-            "percentualDesvio": -72.66,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2776,7 +2776,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2790,7 +2790,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2804,7 +2804,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2818,7 +2818,7 @@
             "desvioCaixas": 11,
             "percentualDesvio": 0.81,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2832,7 +2832,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2846,7 +2846,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2860,7 +2860,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2874,7 +2874,7 @@
             "desvioCaixas": -66,
             "percentualDesvio": -2.73,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2888,7 +2888,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2897,12 +2897,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 2120,
-            "caixasHu": 0,
+            "caixasHu": 2120,
             "caixasRefugo": 0,
-            "desvioCaixas": -2120,
-            "percentualDesvio": -100.0,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2916,7 +2916,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2930,7 +2930,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2944,7 +2944,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2958,7 +2958,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2972,7 +2972,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -2981,12 +2981,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1620,
-            "caixasHu": 252,
+            "caixasHu": 1620,
             "caixasRefugo": 0,
-            "desvioCaixas": -1368,
-            "percentualDesvio": -84.44,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 0,
+            "percentualDesvio": 0.0,
+            "statusDesvio": "OK_ALINHADO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3000,7 +3000,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3014,7 +3014,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3028,7 +3028,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3042,7 +3042,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3056,7 +3056,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3065,12 +3065,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 1773,
-            "caixasHu": 213,
+            "caixasHu": 1833,
             "caixasRefugo": 0,
-            "desvioCaixas": -1560,
-            "percentualDesvio": -87.99,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 60,
+            "percentualDesvio": 3.38,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3084,7 +3084,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3098,7 +3098,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3112,7 +3112,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3126,7 +3126,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3140,7 +3140,7 @@
             "desvioCaixas": 120,
             "percentualDesvio": 9.68,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3149,12 +3149,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 2440,
-            "caixasHu": 120,
+            "caixasHu": 2400,
             "caixasRefugo": 0,
-            "desvioCaixas": -2320,
-            "percentualDesvio": -95.08,
+            "desvioCaixas": -40,
+            "percentualDesvio": -1.64,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3168,7 +3168,7 @@
             "desvioCaixas": 11,
             "percentualDesvio": 0.76,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3182,7 +3182,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCFinishing",
@@ -3196,7 +3196,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -3210,7 +3210,7 @@
             "desvioCaixas": 160,
             "percentualDesvio": 2.56,
             "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -3224,7 +3224,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -3238,7 +3238,7 @@
             "desvioCaixas": -180,
             "percentualDesvio": -5.77,
             "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -3252,7 +3252,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -3261,12 +3261,12 @@
             "dataTurno": "31/08/2026",
             "turno": "3T",
             "caixasMes": 4500,
-            "caixasHu": 240,
+            "caixasHu": 4560,
             "caixasRefugo": 0,
-            "desvioCaixas": -4260,
-            "percentualDesvio": -94.67,
-            "statusDesvio": "FALTA_HU_APONTADO_MAIS",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "desvioCaixas": 60,
+            "percentualDesvio": 1.33,
+            "statusDesvio": "SOBRA_HU_SEM_APONTAMENTO",
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -3280,7 +3280,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -3294,7 +3294,7 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         },
         {
             "focusFactory": "OCMouthwash",
@@ -3308,8 +3308,8 @@
             "desvioCaixas": 0,
             "percentualDesvio": 0.0,
             "statusDesvio": "OK_ALINHADO",
-            "ultimaAtualizacao": "01/09/2026 07:55:09"
+            "ultimaAtualizacao": "01/09/2026 08:00:29"
         }
     ],
-    "ultimaAtualizacao": "01/09/2026 07:55:09"
+    "ultimaAtualizacao": "01/09/2026 08:00:29"
 }
